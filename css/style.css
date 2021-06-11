@@ -1,0 +1,94 @@
+#wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -60px;
+ }
+
+.navbar-logo {
+    width: 50px;
+    height: 50px;
+}
+
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+  
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+  
+.input-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+  
+.icon2 {
+    color: black;
+    position: relative;
+    top: 10px;
+}
+
+.navbar-circle {
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+}
+
+.aqua-gradient {
+    height: 100px;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(233, 242, 233, 0.9878326330532213) 0%, rgba(0, 212, 255, 1) 51%, rgba(114, 156, 7, 1) 93%);
+}
+  
+.image {
+    margin-top: -50px;
+}
+
+.bg-card-photo {
+    height: 100px;
+    width: 100%;
+}
+
+.card-photo {
+    height: 50px;
+    width: 50px;
+}
+
+.line-height {
+    line-height: 7px;
+}
+
+.hr-line {
+    margin:0px;
+    padding: 0px;
+    line-height: 7px;
+}
+
+.fixed-message-bar {
+    position: fixed;
+}
+
+.vertical-hr {
+    border: none;
+    border-left: 1px solid black;
+    height: auto;
+    width: 1px;       
+}
+
+.trimText{
+    white-space: nowrap;
+    overflow: hidden; 
+    text-overflow: ellipsis
+}
+
+.linkedin-photo {
+    width: 100px;
+    height: 23px;
+}
