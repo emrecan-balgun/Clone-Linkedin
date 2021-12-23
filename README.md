@@ -1,1 +1,1 @@
-# Patika.dev // Linkedin Clone
+# Bootstrap project within the scope of Patika.dev
